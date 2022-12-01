@@ -1,39 +1,6 @@
-# Base configuration
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-# Title
-name: Nakina Maps
-
-# Author/Organization info to be displayed in the templates
-author:
-  name: Leopold Malet
-
-
-# When using this template with a project (repository) page set the baseurl to '/project-name'
-# For user/organization pages set this to an empty string
-# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
-# See http://jekyllrb.com/docs/github-pages/ for more info
-baseurl: '/nakina_maps'
-
-# Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /MCan-IconNakina-WR-100.jpg
-logoalt: Nakina logo
-
-# Navigation
-# List links that should appear in the site sidebar here
-
-
-# Repo list
-# List repos that you would like to appear on the homepage here
-
-
-# Style Variables
-brand_color: "#DA253B"
+theme: jekyll-theme-minimal
+title: Nakina maps
+description: 
+logo: MCan-IconNakina-WR-100.jpg
+#You can also add a logo from an image URL, as below
+#logo: https://www.lawschool.cornell.edu/_cs_apps/pt_photo_gallery/uploads/mainphotogallery/fullsizeimage/Photogallery_Ithacapage_8.png
