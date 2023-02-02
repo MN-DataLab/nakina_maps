@@ -1,3 +1,9 @@
+## Répartition des types de sol (BRGM)
+
+<iframe src="MFRA_soils_brgm.html" height="500" width="700"></iframe>
+
+[Cliquez sur ce lien pour afficher la carte en plein écran](MFRA_soils_brgm.html).
+
 ## Kompas and Groud Live (30km grid)
 
 <iframe src="groundlive_MPOL.html" height="500" width="700"></iframe>
